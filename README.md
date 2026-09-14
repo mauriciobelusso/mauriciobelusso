@@ -29,6 +29,8 @@ Software Engineer focused on high-concurrency backend architecture, microservice
 
 ---
 
-### Featured repositories
+### Writing
 
-Production work is private. What's public is the [site](https://mauriciobelusso.github.io) — résumé in `resume.json`. The other repos are experiments or forks.
+- [ADR 0001 — Virtual Threads for I/O-bound Java services](writing/adr-0001-virtual-threads.md)
+- [Twelve pods to two](writing/eks-footprint.md) — leak first, then the EKS bill
+
