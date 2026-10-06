@@ -2,7 +2,7 @@
 
 Software Engineer focused on high-concurrency backend architecture, microservices, and resilient systems.
 
-[![Site](https://img.shields.io/badge/Site-0f172a?style=flat&logo=githubpages&logoColor=white)](https://mauriciobelusso.github.io)
+[![Site](https://img.shields.io/badge/Site-0f172a?style=flat&logo=githubpages&logoColor=white)](https://mauriciobelusso.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciobelusso)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mauriciobelusso@gmail.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mauriciobelusso)
