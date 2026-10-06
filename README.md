@@ -23,7 +23,7 @@ Software Engineer focused on high-concurrency backend architecture, microservice
 | :--- | :--- |
 | **Languages** | Java, TypeScript, Python, Rust |
 | **Frameworks** | Spring Boot, Hibernate, Angular, Next.js, Node.js |
-| **Databases** | MongoDB, PostgreSQL |
+| **Databases** | DocumentDB, MongoDB, PostgreSQL |
 | **Observability** | ELK, OpenSearch, CloudWatch, AppDynamics |
 | **Infra & DevOps** | AWS, Kubernetes, Docker, Terraform, Jenkins, GitLab CI, Linux |
 
